@@ -18,7 +18,7 @@ namespace Syntax
             neo = Console.ReadLine();
 
             // Getting the matrix variables from user
-            Console.WriteLine($"Hell0 {neo}! Are you ready? What is something you want to know more"+ 
+            Console.WriteLine($"Hello {neo}! Are you ready? What is something you want to know more"+ 
                 $" about?");
             theMatrix = Console.ReadLine();
 
@@ -77,8 +77,9 @@ namespace Syntax
             $"are not ready to be {unplugged}." +
             $"And many of them are so {adj[0]}," +
             $"so hopelessly {adj[1]} on the {system}," +
-            $"that they will {fight} to protect it";
-            // Print Story
+            $"that they will {fight} to protect it" +
+            $"[{Neo}'s eyes suddenly wander towards a woman in a red dress]";
+            // Print Story- The Matrix (1999) - IMDb
             Console.WriteLine( madlibsStory );
             Console.ReadKey();
 
