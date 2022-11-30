@@ -78,7 +78,7 @@ namespace Syntax
             $"And many of them are so {adj[0]}," +
             $"so hopelessly {adj[1]} on the {system}," +
             $"that they will {fight} to protect it" +
-            $"[{Neo}'s eyes suddenly wander towards a woman in a red dress]";
+            $"[{neo}'s eyes suddenly wander towards a woman in a red dress]";
             // Print Story- The Matrix (1999) - IMDb
             Console.WriteLine( madlibsStory );
             Console.ReadKey();
