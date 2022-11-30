@@ -46,7 +46,7 @@ namespace Syntax
             }
 
             // Getting the save variables
-            Console.WriteLine($"Give me a helo-related verb (present tense)");
+            Console.WriteLine($"Give me a help-related verb (present tense)");
             save = Console.ReadLine();
 
             // Getting the unplugged variables
